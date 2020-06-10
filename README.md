@@ -1,7 +1,6 @@
 # InstaZoom
-Download 320x320px Instagram Profile Picture.
 
-Usage:
+<b>Usage:</b>
 
 py instaZoom.py
 
