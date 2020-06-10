@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from colorama import init
 from colorama import Fore, Style
 import requests
-import json
 import re
 import random
 import os.path
