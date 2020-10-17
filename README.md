@@ -2,11 +2,10 @@
 
 ## Usage:
 ``` 
-py instaZoom.py 
+pip install -r requirements.txt
+py insta_zoom.py 
 ```
->
->**Then just enter your Instagram username**
->
->**For multiple downloads enter comma seperated usernames. eg.user1,user2.....**
 
-**The code is little messed up but still works.....**
+**Then just enter your Instagram username.**
+
+**For multiple downloads enter comma seperated usernames. eg.user1,user2.....**
